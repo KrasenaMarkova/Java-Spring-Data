@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SolarMoons" />
+        <module name="_11_SpringData" />
+        <module name="SecretAmerica" />
+        <module name="exam (1)" />
+        <module name="krasai" />
+        <module name="Spring" />
+        <module name="exam" />
+        <module name="SecretAmerica (1)" />
+        <module name="_16_Game_Store" />
+        <module name="advquerying" />
+        <module name="_15_ModelMapping" />
+        <module name="playground" />
+        <module name="_16_SoftUniGameStore" />
+      </profile>
+      <profile name="Annotation profile for exam" enabled="true">
+        <sourceOutputDir name="../Library/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../Library/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="exam (2)" />
+        <module name="exam (4)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="exam (3)" target="11" />
+      <module name="exam (5)" target="11" />
+      <module name="exam (6)" target="11" />
+      <module name="exam (7)" target="11" />
+      <module name="SecretAmerica (2)" target="21" />
+      <module name="SolarMoons (1)" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SecretAmerica" options="-parameters" />
+      <module name="SecretAmerica (1)" options="-parameters" />
+      <module name="SecretAmerica (2)" options="-parameters" />
+      <module name="SolarMoons" options="-parameters" />
+      <module name="SolarMoons (1)" options="-parameters" />
+      <module name="Spring" options="-parameters" />
+      <module name="_11_SpringData" options="-parameters" />
+      <module name="_15_ModelMapping" options="-parameters" />
+      <module name="_16_Game_Store" options="-parameters" />
+      <module name="_16_SoftUniGameStore" options="-parameters" />
+      <module name="advquerying" options="-parameters" />
+      <module name="exam" options="-parameters" />
+      <module name="exam (1)" options="-parameters" />
+      <module name="exam (2)" options="-parameters" />
+      <module name="exam (3)" options="-parameters" />
+      <module name="exam (4)" options="-parameters" />
+      <module name="exam (5)" options="-parameters" />
+      <module name="exam (6)" options="-parameters" />
+      <module name="exam (7)" options="-parameters" />
+      <module name="krasai" options="-parameters" />
+      <module name="playground" options="-parameters" />
+    </option>
+  </component>
+</project>

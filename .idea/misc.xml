@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Exam/Library/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam/Mobiles/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam/SolarMoons/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam/Exam11.2024/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam/Exam 11.2024.a/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam/Find-a-Star Skeleton/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam/Library Author Solution/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam/Explore-Volcano-Skeleton/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam/SolarMoonsAuthorSolution/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam/Exam11.2024 Author Solution/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam/Find-a-Star-Author-Solution/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam/Mobiles-App-Author-Solution/pom.xml" />
+        <option value="$PROJECT_DIR$/Exam/ExploreVolcanoAuthorSolution/pom.xml" />
+        <option value="$PROJECT_DIR$/Krasi/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/pom.xml" />
+        <option value="$PROJECT_DIR$/playground/pom.xml" />
+        <option value="$PROJECT_DIR$/11_SpringData/pom.xml" />
+        <option value="$PROJECT_DIR$/16_Game_Store/pom.xml" />
+        <option value="$PROJECT_DIR$/15_ModelMapping/pom.xml" />
+        <option value="$PROJECT_DIR$/16_SoftUniGameStore/pom.xml" />
+        <option value="$PROJECT_DIR$/13_Spring_Data_Advanced_Querying/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
